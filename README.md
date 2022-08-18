@@ -6,6 +6,8 @@ https://github.com/mkdocstrings/mkdocstrings throws an error on indirect refence
 
 Maybe i was wrong :) 
 
+This project throws no error on `mkdocs build`
+
 # Run test:
 
 `docker build . -t test`
